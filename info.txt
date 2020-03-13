@@ -1,0 +1,18 @@
+Advanced Network Communications (H)
+
+Name: Dominic Houston-Watt
+Matric: 2253422h
+
+Assessed Exercise Submission Contents:
+Deliverable Reports
+	- Overview
+	- Status Report
+	- Network file description + walkthrough
+Source Code Raw
+	- Main, Network and Node classes
+	- Use for inspecting source code (not used to run)
+netsim.jar
+	- executable file in terminal (see overview.pdf)
+NetworkDVRSimulator
+	- source code in archive file, import in Eclipse to build executable file from source
+
